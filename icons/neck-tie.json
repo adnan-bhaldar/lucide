@@ -1,24 +1,25 @@
 {
-    "$schema": "../icon.schema.json",
-    "contributors": [
-        "adnan-bhaldar"
-    ],
+  "$schema": "../icon.schema.json",
+  "contributors": [
+    "adnan-bhaldar",
+    "karsa-mistmere"
+  ],
   "tags": [
+    "necktie",
+    "neckwear",
     "accessory",
     "formal",
     "clothing",
+    "clothes",
     "fashion",
-    "necktie",
     "style",
     "business",
     "dress",
     "male",
     "elegance",
-    "tie",
     "suit"
   ],
   "categories": [
-    "tie",
-    "suit"
+    "shopping"
   ]
 }
